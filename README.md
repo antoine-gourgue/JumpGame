@@ -31,5 +31,3 @@ Pour exécuter JumpGame :
 2. Exécutez la tâche Gradle `run` pour la plateforme de votre choix (desktop, android, ios).
 3. Le jeu se lancera et vous pourrez commencer à jouer.
 
-## Licence
-Ce projet est sous licence MIT. Voir [LICENSE](LICENSE.md) pour plus de détails.
